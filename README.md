@@ -11,6 +11,8 @@ A collaborative application built by Will Kencel and Taylor Davis using some tec
 
 ## How it works
 
+When a flight to a specified destination drops below the designated price, a text message is sent to the user
+
 1. The user selects their starting airport, a place they want to visit and the price they'd like to pay for a ticket.
 
 2. React Query Hooks persistently queries the skyscanner API for data on flights that match your criteria
