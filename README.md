@@ -3,13 +3,13 @@ A mobile first app to help users get flights for their ideal price.
   
 A collaborative application built by Will Kencel and Taylor Davis using some technologies that we're really excited about
 
-##Tech Stack:
+## Tech Stack:
 - React Native/Expo
 - React Query Hooks
 - Skyscanner API accessed through Rapid API
 - Twilio API
 
-##How it works
+## How it works
 
 1. The user selects their starting airport, a place they want to visit and the price they'd like to pay for a ticket.
 
